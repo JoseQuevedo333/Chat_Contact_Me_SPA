@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+menu {
+  background-color: rgb(102, 87, 119);
+  width: 20em;
+  min-height: 100vh;
+}
+
+menu ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding-top: 20px;
+}
+
+ul li {
+  list-style: none;
+}
+
+.alignItems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.father {
+  display: flex;
+}
