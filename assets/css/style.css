@@ -84,6 +84,7 @@ h2 {
   width: 3rem;
   height: auto;
   border-radius: 50%;
+  border: 1px solid var(--platinum);
 }
 
 li {
@@ -105,6 +106,7 @@ li {
   width: 5rem;
   height: auto;
   border-radius: 50%;
+  border: 1px solid var(--platinum);
 }
 
 .status-bar {
