@@ -46,7 +46,7 @@ main {
 
 .chat {
   flex: 1;
-  background-color: var(--white);
+  background-color: var(--platinum);
   height: auto !important;
   display: flex;
   flex-direction: column;
